@@ -8,6 +8,3 @@ type Node struct {
 	data string
 	next *Node
 }
-
-func main() {
-}
